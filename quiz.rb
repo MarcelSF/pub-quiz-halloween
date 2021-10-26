@@ -1,5 +1,14 @@
 # TO DO:
 # This is the file that you will run in your terminal with: ruby quiz.rb
+require 'json'
+
+filepath = 'data/halloween.json'
+
+questions_file = File.read(filepath)
+
+questions = JSON.parse(questions_file)
+
+p questions
 
 # Don't forget, if you are storing your questions in a json or csv file, you will need to
 #                                                  parse that file first to get the data!

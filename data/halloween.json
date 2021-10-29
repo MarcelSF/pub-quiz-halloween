@@ -1,122 +1,122 @@
 [
   {
-    "question": "Dracula Question",
+    "question": "To what knightly order did the original Dracula belong to?",
     "possible_answers": {
-      "A": "Bread baking",
-      "B": "Meditation",
-      "C": "Woodwork",
-      "D": "Gardening"
+      "A": "Order of the Dragon",
+      "B": "Order of the Great Bat",
+      "C": "Templar Order",
+      "D": "Hospitaler Order"
     },
     "correct_answer_key": "A"
   },
   {
-    "question": "Dracula Question 2",
+    "question": "What animal was aboard the Nostromo in the first Alien movie?",
     "possible_answers": {
-      "A": "Bread baking",
-      "B": "Meditation",
-      "C": "Woodwork",
-      "D": "Gardening"
+      "A": "Dog",
+      "B": "Cat",
+      "C": "Hamster",
+      "D": "No animals, only the Alien itself"
+    },
+    "correct_answer_key": "B"
+  },
+  {
+    "question": "What does NOT ward off vampires",
+    "possible_answers": {
+      "A": "Sunlight",
+      "B": "Holy Water",
+      "C": "Garlic",
+      "D": "Onions"
+    },
+    "correct_answer_key": "D"
+  },
+  {
+    "question": "The word Halloween is a contraction of what Christian holiday?",
+    "possible_answers": {
+      "A": "Christmas",
+      "B": "Easter",
+      "C": "All Saint's Eve",
+      "D": "It doesn't come from a Christian Holiday"
+    },
+    "correct_answer_key": "C"
+  },
+  {
+    "question": "A manual on how to hunt witches was published in 1487. What was it called?",
+    "possible_answers": {
+      "A": "The Dummies guide to Hunting Witches",
+      "B": "Malleus Maleficarum",
+      "C": "Which Witch?",
+      "D": "The Witcher's Guide to dealing with Witches (Hint: You are probably doing it wrong)"
+    },
+    "correct_answer_key": "B"
+  },
+  {
+    "question": " If someone were to ask you, \"Excuse me, but have you seen the yellow sign?\", who would they be referring to?",
+    "possible_answers": {
+      "A": "Azathoth",
+      "B": "Cthulhu",
+      "C": "Hastur",
+      "D": "Dagon"
+    },
+    "correct_answer_key": "C"
+  },
+  {
+    "question": "In \"Friday the 13th Part One\", who was this slasher movie series' first villain?",
+    "possible_answers": {
+      "A": "Crazy Ralph",
+      "B": "The main protagonist",
+      "C": "Pamela Voorhees",
+      "D": "Jason Voorhees"
+    },
+    "correct_answer_key": "C"
+  },
+  {
+    "question": "Which real-life insect is susceptible to a zombie-like virus?",
+    "possible_answers": {
+      "A": "Leafcutter Bee",
+      "B": "Termites",
+      "C": "Asian Tiger Mosquito",
+      "D": "Gypsy Moth Caterpillar"
+    },
+    "correct_answer_key": "D"
+  },
+  {
+    "question": "Which ghostly and dreadful vessel is said to appear around the Cape of Good Hope in storms?",
+    "possible_answers": {
+      "A": "The Flying Dutchman",
+      "B": "Queen Anne's Revenge",
+      "C": "The Black Pearl",
+      "D": "The Britannic"
     },
     "correct_answer_key": "A"
   },
   {
-    "question": "Alien question",
+    "question": "What is the name of the demon in The Exorcist?",
     "possible_answers": {
-      "A": "Bread baking",
-      "B": "Meditation",
-      "C": "Woodwork",
-      "D": "Gardening"
+      "A": "Adremalik",
+      "B": "Pazuzu",
+      "C": "Mickey, the Mouse",
+      "D": "Santa's little helper"
     },
-    "correct_answer_key": "A"
+    "correct_answer_key": "B"
   },
   {
-    "question": "Folk Question",
+    "question": "Which of these is one of the horsemen of the Apocalypse",
     "possible_answers": {
-      "A": "Bread baking",
-      "B": "Meditation",
-      "C": "Woodwork",
-      "D": "Gardening"
+      "A": "Fluffy, the Pink Walrus",
+      "B": "War",
+      "C": "Bartok",
+      "D": "All of them are horsemen of the Apocalypse"
     },
-    "correct_answer_key": "A"
+    "correct_answer_key": "B"
   },
   {
-    "question": "Exorcism question",
+    "question": "What 14-minute music video, directed by John Landis, features a bunch of dancing zombies?",
     "possible_answers": {
-      "A": "Bread baking",
-      "B": "Meditation",
-      "C": "Woodwork",
-      "D": "Gardening"
+      "A": "Dem Bones",
+      "B": "Spooky",
+      "C": "Thriller",
+      "D": "Monster Mash"
     },
-    "correct_answer_key": "A"
-  },
-  {
-    "question": "Bloodborne question",
-    "possible_answers": {
-      "A": "Bread baking",
-      "B": "Meditation",
-      "C": "Woodwork",
-      "D": "Gardening"
-    },
-    "correct_answer_key": "A"
-  },
-  {
-    "question": "Slasher question",
-    "possible_answers": {
-      "A": "Bread baking",
-      "B": "Meditation",
-      "C": "Woodwork",
-      "D": "Gardening"
-    },
-    "correct_answer_key": "A"
-  },
-  {
-    "question": "Zombie question",
-    "possible_answers": {
-      "A": "Bread baking",
-      "B": "Meditation",
-      "C": "Woodwork",
-      "D": "Gardening"
-    },
-    "correct_answer_key": "A"
-  },
-  {
-    "question": "Ghost question",
-    "possible_answers": {
-      "A": "Bread baking",
-      "B": "Meditation",
-      "C": "Woodwork",
-      "D": "Gardening"
-    },
-    "correct_answer_key": "A"
-  },
-  {
-    "question": "Cult question",
-    "possible_answers": {
-      "A": "Bread baking",
-      "B": "Meditation",
-      "C": "Woodwork",
-      "D": "Gardening"
-    },
-    "correct_answer_key": "A"
-  },
-  {
-    "question": "Post Apocalyptic question",
-    "possible_answers": {
-      "A": "Bread baking",
-      "B": "Meditation",
-      "C": "Woodwork",
-      "D": "Gardening"
-    },
-    "correct_answer_key": "A"
-  },
-  {
-    "question": "Serial Killer question",
-    "possible_answers": {
-      "A": "Bread baking",
-      "B": "Meditation",
-      "C": "Woodwork",
-      "D": "Gardening"
-    },
-    "correct_answer_key": "A"
+    "correct_answer_key": "C"
   }
 ]
